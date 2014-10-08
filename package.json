@@ -1,6 +1,6 @@
 {
   "name": "callback-or-emit-error",
-  "version": "1.0.0-doc",
+  "version": "1.0.1"
   "description": "Callback or emit an error when something is bad",
   "main": "index.js",
   "scripts": {
